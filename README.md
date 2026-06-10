@@ -1,5 +1,7 @@
 # NLP-Translator
 
-This project was originally done on google colab to allow for ease of group work and accelerated GPU. Added here are the translation methods that I completed. 
+The dataset used contains multilingual questions and respective con- texts (English) as well as answers if applicable. The dataset includes 2379 data points (training and validation) for Russian, 2654 for Finnish, and 2757 for Japanese.
 
-The dataset: https://huggingface.co/datasets/coastalcph/tydi_xor_rc
+[Link to Dataset]([https://www.google.com](https://huggingface.co/datasets/coastalcph/tydi_xor_rc))
+
+Different NLP techniques were utlized such as LSTM, RoBERTa,and n-grams.
